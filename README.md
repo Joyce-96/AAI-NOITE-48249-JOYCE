@@ -13,8 +13,6 @@ npx expo install react-dom react-native-web @expo/metro-runtime
 //Comando para criat pasta do projeto
 cd "Nome da pasta"
 
-//Instalar dependencias do react native
-npm i
 
 //Executar na web ou no aplicativo de celular
 npm run start //Para ver o web app em ação, pressione w no terminal
@@ -35,8 +33,9 @@ git commit -m "Texto"
 git push -u origin main
 
 
+
 //Clonar um repositorio do GitHub
-git clone https://github.com/Joyce-96/AAI-NOITE-48249-JOYCE
+git clone https://github.com/GuilhermeCamargo744/aula-fecaf-noite-dog-ever-match
 
 //Procurar pasta
 cd "Nome da pasta"
@@ -49,6 +48,7 @@ git checkout <nome-da-branch>
 
 //Comando configurar a branch  que vai editar
 git push --set-upstream origin [nome da branch]
+
 
 //Comando pra rodar a aplicação
 npm run start
